@@ -30,7 +30,7 @@
     "revision": "lineage-15.0"
   },
   {
-    "remote": "tm",
+    "remote": "github",
     "repository": "TheMuppets/proprietary_vendor_samsung",
     "target_path": "vendor/samsung",
     "revision": "lineage-15.0"
